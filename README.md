@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @shehanhasanga
+- 👋 Hi, I'm Shehan Hasanga, Software Engineer,
+- ✨ Graduate from University Of Moratuwa,
 - 👀 I’m interested in Web and Mobile development...
 - 🌱 I’m currently learning Android / Java / Spring boot / Nodejs / Angular / React / React Native...
 
